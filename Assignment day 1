@@ -1,0 +1,5 @@
+Qs 1:To my understanding, blockchain is a mix of distributed database and cryptography. It is an ever growing ledger that holds permanent records of all transactions in a secure, chronological and immutable way in a decentralised network.
+Qs 2: Blockchain is trying to address the problems with the Internet, ie. the problems of authenticity, security and need of a third party for trust. Information here is verifiable 
+Qs 3: The features of blockchain are the verifiable, unchangeable, Immutable and tamper proof information it has.
+Qs 4:A blockchain contains block number, transaction records, previous block signature and mining key. 
+Qs 5:Block 1: 0 + Data = Key 1. Block 2: Key 1 + New data = Key 2. Block 3: Key 2 + New data = Key 3 and so on. Many such chains are created and distributed among peers so any variation anywhere can easily be verified.
